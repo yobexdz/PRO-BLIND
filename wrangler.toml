@@ -1,0 +1,9 @@
+name = "pro-blind"
+type = "javascript"
+
+account_id = "aab12cffafdb000de4788353af8b6046"
+workers_dev = true
+
+[vars]
+TELEGRAM_BOT_TOKEN = "8052234124:AAETdIM6xtGG_BJWcFMQD8yEKfqw9MyLE4Y"
+TELEGRAM_CHAT_ID = "1002375426318"
